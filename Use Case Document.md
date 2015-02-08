@@ -19,7 +19,9 @@ Hardware
 - Entering or exiting the gym
 
 **Steps:**
-- Inside or outside gym
+
+![Entering or Exiting Gym Steps](images/peopleBreakingBeam.png)
+
 
 Website
 -------
@@ -41,6 +43,8 @@ Website
 - History
 
 **Steps:**
+
+![Check Gym Status Steps](images/checkGymStatus.png)
 
 1. User navigates to web page
 2. User views the current number of gym goers
@@ -65,6 +69,8 @@ Website
 
 **Steps**
 
+![History Steps](images/history.png)
+
 1. User navigates to web page
 2. User manipulates graph
 3. Database is queried
@@ -73,7 +79,7 @@ Website
 **Post Conditions:**
 - Historical information is displayed
 
-###Admin Page###
+###Visit Admin Page###
 
 **Actors:**
 - Administrators
@@ -85,6 +91,8 @@ Website
 - Know the admin url
 
 **Steps:**
+
+![Visit Admin Page Steps](images/realAdminPage.png)
 
 1. Go to admin page
 2. View Health Status
