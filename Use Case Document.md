@@ -41,6 +41,7 @@ Website
 - History
 
 **Steps:**
+
 1. User navigates to web page
 2. User views the current number of gym goers
 
@@ -63,6 +64,7 @@ Website
 - Check Gym Status
 
 **Steps**
+
 1. User navigates to web page
 2. User manipulates graph
 3. Database is queried
@@ -83,6 +85,7 @@ Website
 - Know the admin url
 
 **Steps:**
+
 1. Go to admin page
 2. View Health Status
 
