@@ -49,7 +49,7 @@ Website
 1. User navigates to web page
 2. User views the current number of gym goers
 
-**Postconditions:**
+**Post conditions:**
 - User knows the current number of gym nerds.
 
 ###History###
