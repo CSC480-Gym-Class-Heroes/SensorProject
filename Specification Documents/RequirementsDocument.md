@@ -51,7 +51,7 @@ Requirements Document
 
 **4. Servers**
 
-**5. MySQL Database 5.6.4 or above**
+**5. MySQL Database**
 
 
 ## Process ##

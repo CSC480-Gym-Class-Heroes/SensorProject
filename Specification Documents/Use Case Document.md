@@ -20,7 +20,7 @@ Hardware
 
 **Steps:**
 
-![Entering or Exiting Gym Steps](images/peopleBreakingBeam.png)
+![Entering or Exiting Gym Steps](../images/peopleBreakingBeam.png)
 
 
 Website
@@ -44,7 +44,7 @@ Website
 
 **Steps:**
 
-![Check Gym Status Steps](images/checkGymStatus.png)
+![Check Gym Status Steps](../images/checkGymStatus.png)
 
 1. User navigates to web page
 2. User views the current number of gym goers
@@ -69,7 +69,7 @@ Website
 
 **Steps**
 
-![History Steps](images/history.png)
+![History Steps](../images/history.png)
 
 1. User navigates to web page
 2. User manipulates graph
@@ -92,7 +92,7 @@ Website
 
 **Steps:**
 
-![Visit Admin Page Steps](images/realAdminPage.png)
+![Visit Admin Page Steps](../images/realAdminPage.png)
 
 1. Go to admin page
 2. View Health Status
