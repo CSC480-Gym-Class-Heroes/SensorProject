@@ -13,5 +13,18 @@ additional requirements and **INCLUDE project ownership** and **due date.**
 - Each - Date - Analysis of time spent on the project
 - Each - Date - Peer Evaluations
 - Mark - Date - Final Presentation
-- Mark - Date - Final Paper
+- Mark - Date - Final Paper 
+
+
+Mark
+--------
+- Web Site Fixes - 4/30/2015
+- Final Presentation Frame  - 5/2/2015
+- Final Paper Frame - 5/2/2015
+- Reflection Paper - 5/3/2015
+- Analysis of time spent - 5/3/2015
+- Peer Evaluations - ?
+
+
+
 
