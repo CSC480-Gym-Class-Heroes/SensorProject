@@ -31,6 +31,6 @@ Rachel
 - Analysis of time spent - 5/10/2015
 - Peer evaluations - ?
 
-
-
-
+Chaskin
+-------
+- Create README.md for this repository - Sunday - 5/3/2015
