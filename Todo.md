@@ -25,6 +25,14 @@ Mark
 - Analysis of time spent - 5/3/2015
 - Peer Evaluations - ?
 
+Rachel
+--------
+- Testing - 5/3/2015
+- Analysis of testing - 5/6/2015
+- Reflection paper - 5/10/2015
+- Analysis of time spent - 5/10/2015
+- Peer evaluations - ?
+
 
 
 
