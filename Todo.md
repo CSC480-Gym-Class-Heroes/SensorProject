@@ -16,9 +16,9 @@ additional requirements and **INCLUDE project ownership** and **due date.**
 
 Mark
 --------
-~~- Web Site Fixes - 4/30/2015~~
-~~- Final Presentation Frame  - 5/2/2015~~
-~~- Final Paper Frame - 5/2/2015~~
+- ~~Web Site Fixes - 4/30/2015~~
+- ~~Final Presentation Frame  - 5/2/2015~~
+- ~~Final Paper Frame - 5/2/2015~~
 - Reflection Paper - 5/5/2015
 - Analysis of time spent - 5/5/2015
 - Peer Evaluations - ?
